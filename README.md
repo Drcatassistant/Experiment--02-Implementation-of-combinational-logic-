@@ -63,10 +63,14 @@ assign F1=x1|x2|x3|x4|x5;
 endmodule
 
 ## RTL realization
-![Screenshot 2023-11-26 173053](https://github.com/mounika2005/Experiment--02-Implementation-of-combinational-logic-/assets/145633112/21e1ae21-bf4e-4cf6-990c-04303e40d522)
+
+![Screenshot 2023-12-29 182111](https://github.com/Drcatassistant/Experiment--02-Implementation-of-combinational-logic-/assets/144364462/20e0937e-c950-4fb4-9be4-b832fc2a4a77)
+
 # Truth table:
-![Screenshot 2023-11-26 173233](https://github.com/mounika2005/Experiment--02-Implementation-of-combinational-logic-/assets/145633112/c6468b54-7ec8-4a38-b959-64b7df34c7e3)
+
+![Screenshot 2023-12-29 182124](https://github.com/Drcatassistant/Experiment--02-Implementation-of-combinational-logic-/assets/144364462/8d097118-3998-4a18-8de5-977b1d6accbc)
+
 # Timing Diagram:
-![Screenshot 2023-11-26 173342](https://github.com/mounika2005/Experiment--02-Implementation-of-combinational-logic-/assets/145633112/4640dcf3-91e4-42c8-bf85-e0d7d05d2b63)
+![Screenshot 2023-12-29 182139](https://github.com/Drcatassistant/Experiment--02-Implementation-of-combinational-logic-/assets/144364462/4f2a56a6-210b-4856-8f47-9d59d43ae37c)
 ## Result:
 Thus the given logic functions are implemented using  and their operations are verified using Verilog programming.
