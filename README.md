@@ -1,7 +1,8 @@
-## Developed by: Jackson Raj A
-## RegisterNumber:  212223040071
-# Experiment 02 Implementation of combinational logic
-Implementation of combinational logic gates
+
+# 2. Implementation of combinational logic
+
+Developed by: Jackson Raj A
+RegisterNumber:  212223040071
  
 ## AIM:
 To implement the given logic function verify its operation in Quartus using Verilog programming.
