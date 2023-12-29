@@ -1,5 +1,5 @@
 ## Developed by: Jackson Raj A
-## RegisterNumber:  23012756
+## RegisterNumber:  212223040071
 # Experiment 02 Implementation of combinational logic
 Implementation of combinational logic gates
  
